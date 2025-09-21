@@ -1,0 +1,45 @@
+# Third-Party Licenses
+
+- **cfg-if** v1.0.3 — `Apache-2.0 OR MIT`
+- **core-foundation-sys** v0.8.7 — `Apache-2.0 OR MIT`
+- **crossbeam-deque** v0.8.6 — `Apache-2.0 OR MIT`
+- **crossbeam-epoch** v0.9.18 — `Apache-2.0 OR MIT`
+- **crossbeam-utils** v0.8.21 — `Apache-2.0 OR MIT`
+- **either** v1.15.0 — `Apache-2.0 OR MIT`
+- **equivalent** v1.0.2 — `Apache-2.0 OR MIT`
+- **hashbrown** v0.16.0 — `Apache-2.0 OR MIT`
+- **indexmap** v2.11.4 — `Apache-2.0 OR MIT`
+- **libc** v0.2.175 — `Apache-2.0 OR MIT`
+- **memchr** v2.7.5 — `MIT OR Unlicense`
+- **ntapi** v0.4.1 — `Apache-2.0 OR MIT`
+- **once_cell** v1.21.3 — `Apache-2.0 OR MIT`
+- **proc-macro2** v1.0.101 — `Apache-2.0 OR MIT`
+- **quote** v1.0.40 — `Apache-2.0 OR MIT`
+- **rayon** v1.11.0 — `Apache-2.0 OR MIT`
+- **rayon-core** v1.13.0 — `Apache-2.0 OR MIT`
+- **serde** v1.0.226 — `Apache-2.0 OR MIT`
+- **serde_core** v1.0.226 — `Apache-2.0 OR MIT`
+- **serde_derive** v1.0.226 — `Apache-2.0 OR MIT`
+- **serde_spanned** v0.6.9 — `Apache-2.0 OR MIT`
+- **syn** v2.0.106 — `Apache-2.0 OR MIT`
+- **sysinfo** v0.30.13 — `MIT`
+- **toml** v0.8.23 — `Apache-2.0 OR MIT`
+- **toml_datetime** v0.6.11 — `Apache-2.0 OR MIT`
+- **toml_edit** v0.22.27 — `Apache-2.0 OR MIT`
+- **toml_write** v0.1.2 — `Apache-2.0 OR MIT`
+- **unicode-ident** v1.0.19 — `(Apache-2.0 OR MIT) AND Unicode-3.0`
+- **winapi** v0.3.9 — `Apache-2.0 OR MIT`
+- **winapi-i686-pc-windows-gnu** v0.4.0 — `Apache-2.0 OR MIT`
+- **winapi-x86_64-pc-windows-gnu** v0.4.0 — `Apache-2.0 OR MIT`
+- **windows** v0.52.0 — `Apache-2.0 OR MIT`
+- **windows-core** v0.52.0 — `Apache-2.0 OR MIT`
+- **windows-targets** v0.52.6 — `Apache-2.0 OR MIT`
+- **windows_aarch64_gnullvm** v0.52.6 — `Apache-2.0 OR MIT`
+- **windows_aarch64_msvc** v0.52.6 — `Apache-2.0 OR MIT`
+- **windows_i686_gnu** v0.52.6 — `Apache-2.0 OR MIT`
+- **windows_i686_gnullvm** v0.52.6 — `Apache-2.0 OR MIT`
+- **windows_i686_msvc** v0.52.6 — `Apache-2.0 OR MIT`
+- **windows_x86_64_gnu** v0.52.6 — `Apache-2.0 OR MIT`
+- **windows_x86_64_gnullvm** v0.52.6 — `Apache-2.0 OR MIT`
+- **windows_x86_64_msvc** v0.52.6 — `Apache-2.0 OR MIT`
+- **winnow** v0.7.13 — `MIT`

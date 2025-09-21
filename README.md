@@ -169,6 +169,8 @@ cargo run
 
 MIT License
 
+本ソフトウェアで使用しているサードパーティーライブラリのライセンス情報については、[THIRD_PARTY_LICENSES.md](THIRD_PARTY_LICENSES.md)をご参照ください。
+
 ## 注意事項
 
 - 管理者権限が必要なプロセスの監視・制御には対応していません
