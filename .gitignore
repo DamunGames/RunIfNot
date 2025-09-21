@@ -22,3 +22,6 @@ target
 
 # VS Code settings
 .vscode/settings.json
+
+# 設定ファイル
+config.toml

@@ -1,0 +1,18 @@
+# RunIfNot 設定ファイル
+# サンプルではタスクマネージャ or ペイントが存在しない時のみ電卓を起動する設定になっています
+# config.tomlが存在しない場合はデフォルト値で自動生成されます
+# プロジェクトから実行した場合はプロジェクトルートのconfig.tomlが参照されます
+# exeから実行した場合は同ディレクトリのconfig.tomlが参照されます
+
+[processes]
+# 監視対象プロセス名（複数指定可能）
+observe_names = ["taskmgr.exe", "mspaint.exe"]
+executable_name = "calculatorapp.exe"
+
+[execution]
+# 監視時間の間隔（秒）
+interval_seconds = 5
+# 実行コマンド
+command = "cmd"
+# 実行時の引数
+arguments = ["/C", "start", "", "C:/Windows/System32/calc.exe"]
