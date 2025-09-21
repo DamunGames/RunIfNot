@@ -25,3 +25,4 @@ target
 
 # 設定ファイル
 config.toml
+!.cargo/config.toml
